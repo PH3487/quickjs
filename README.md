@@ -15,7 +15,7 @@ node -v
 ```
 ผลลัพท์
 ```
-[secondary_label Output]
+Output
 v18.17.0
 ```
 
@@ -26,7 +26,7 @@ npm -v
 ```
 ผลลัพท์
 ```
-[secondary_label Output]
+Output
 9.6.7
 ```
 
